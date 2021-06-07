@@ -1,0 +1,51 @@
+.web-div{
+ background-color: #ffd2c7;
+ padding: 10px;
+ margin-top: 15px;
+ border: 3px solid white  
+}
+.open-div{
+    background-color: white;
+    color: #ce2700;
+}
+.open-div img{
+    width: 100px;
+}
+body{
+    background-color:#f5dbda;
+    font-family: 'Special Elite', cursive;
+}
+.web-div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+.web-div button{
+    width: 310px;
+   font-size: 16px;
+   box-shadow: 5px 5px 18px white;
+   border: 1px solid;
+}
+.who{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0px;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+.result-div img{
+    width: 70px;
+}
+.result-div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.result-div{
+    margin-bottom: 50px;
+}
